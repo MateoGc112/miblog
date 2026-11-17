@@ -1,8 +1,15 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
 ---
+
+Soy Mateo, alumno de 2º de ASIR. En este blog documento las prácticas de servidores web,
+contenedores y despliegue continuo.
+
+**Tecnologías con las que trabajo:** Linux, Apache, Nginx, Docker y Git.
+
+![Foto de Mateo]({{ "/assets/images/miimagen.jpg" }})
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
