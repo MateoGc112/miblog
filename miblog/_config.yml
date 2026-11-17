@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   servidores web, contenedores y despliegue.
 lang: es
 timezone: Europe/Madrid
-baseurl: "https://MateoGc112.github.io" # the subpath of your site, e.g. /blog
-url: "/miblog" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/miblog" # the subpath of your site, e.g. /blog
+url: "https://MateoGc112.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
