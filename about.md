@@ -9,6 +9,6 @@ contenedores y despliegue continuo.
 
 **Tecnologías con las que trabajo:** Linux, Apache, Nginx, Docker y Git.
 
-![Foto de Mateo]( /assets/images/miimagen.jpg )
+![Foto de Mateo]({{ "/assets/images/miimagen.jpg" | relative _url }})
 
 [jekyll-organization]: https://github.com/jekyll
