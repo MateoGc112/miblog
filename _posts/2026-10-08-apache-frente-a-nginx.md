@@ -18,4 +18,5 @@ Comparamos los dos servidores web más usados en Linux.
 
 
 Si aún no tienes Apache instalado: sigue el 
-[post anterior]({% post_url 2026-10-01-instalar-apache-en-ubuntu %})
+<!-- [post anterior]({% post_url 2026-10-01-instalar-apache-en-ubuntu %}) -->
+[post anterior]({{ site.baseurl }}{% post_url 2026-10-01-instalar-apache-en-ubuntu %})
